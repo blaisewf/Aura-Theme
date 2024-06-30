@@ -183,7 +183,8 @@
 }
 
 /* Threads */
-.grid_a6d69a {
+.grid_a6d69a,
+.list_a6d69a {
   background-color: var(--aura-background) !important;
 }
 
